@@ -1,1 +1,1 @@
-# Loja-de-Informatica-do-Obama
+# Loja-de-Informatica-do-Obama-responsiva
